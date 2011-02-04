@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Piccolo2D Library
+Bundle-SymbolicName: edu.umd.cs.piccolo;singleton:=true
+Bundle-Version: 1.3.0.qualifier
+Bundle-Vendor: www.piccolo2d.org
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Export-Package: edu.umd.cs.piccolo,
+ edu.umd.cs.piccolo.activities,
+ edu.umd.cs.piccolo.event,
+ edu.umd.cs.piccolo.nodes,
+ edu.umd.cs.piccolo.util
