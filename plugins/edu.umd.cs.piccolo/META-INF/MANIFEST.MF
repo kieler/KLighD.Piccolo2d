@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Piccolo2D Library
 Bundle-SymbolicName: edu.umd.cs.piccolo;singleton:=true
-Bundle-Version: 1.3.4.qualifier
+Bundle-Version: 1.3.4.v20200330
 Bundle-Vendor: www.piccolo2d.org
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ActivationPolicy: lazy
