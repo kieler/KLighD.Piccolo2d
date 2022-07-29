@@ -2,3 +2,5 @@ bin
 target
 localM2
 .DS_Store
+# the locally built repo on mvn deploy
+plugins/edu.umd.cs.piccolo/klighd-piccolo2d
