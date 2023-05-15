@@ -47,10 +47,8 @@ import edu.umd.cs.piccolo.PCamera;
  * this:
  * <P>
  * <code>
- * <pre>
  * zoomEventHandler.getEventFilter().setAndMask(InputEvent.BUTTON1_MASK | 
  *                                              InputEvent.SHIFT_MASK);
- * </pre>
  * </code>
  * <P>
  * 
